@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="source_cnn">CNN</string>
+    <string name="source_aljazeera">AlJazeera</string>
+    <string name="source_bbc">BBC</string>
+    <string name="source_thehindu">The Hindu</string>
+    <string name="source_google">Google News</string>
+    <string name="source_buzzfeed">Buzzfeed</string>
+    <string name="source_espn">ESPN</string>
+    <string name="source_mtvnews">MTV News</string>
+    <string name="source_fortune">Fortune</string>
+    <string name="source_foxnews">Fox News</string>
+
+</resources>
