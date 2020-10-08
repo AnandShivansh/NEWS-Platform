@@ -101,7 +101,7 @@ public class CNNFragment extends Fragment implements SwipeRefreshLayout.OnRefres
         if (Internet.checkConnection(getContext())) {
             ApiResponse request = ApiClient.getApiService();
 
-            Call<NewsResource> call = request.getWorldHeadlines(SOURCES_CNN, API_KEY);
+            Call<NewsResource> call = request.getWorldHeadlines(SOURCES_BINSIDER, API_KEY);
             call.enqueue(new Callback<NewsResource>() {
 
                 @RequiresApi(api = Build.VERSION_CODES.KITKAT)
