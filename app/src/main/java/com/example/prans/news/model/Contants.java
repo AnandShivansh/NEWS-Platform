@@ -13,6 +13,7 @@ public class Contants {
 
 
     public static final String SOURCES_CNN = "cnn";
+    public static final String SOURCES_BINSIDER = "business-insider";
     public static final String SOURCES_MTV = "mtv-news";
     public static final String SOURCES_BBC_NEWS = "bbc-news";
     public static final String SOURCES_BUZZFEED= "buzzfeed";
