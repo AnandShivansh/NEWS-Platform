@@ -37,6 +37,7 @@ import retrofit2.Response;
 
 import static com.example.prans.news.model.Contants.API_KEY;
 import static com.example.prans.news.model.Contants.SOURCES_CNN;
+import static com.example.prans.news.model.Contants.SOURCES_BINSIDER;
 
 /**
  * A simple {@link Fragment} subclass.
